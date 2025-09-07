@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pablo Bautista  
 
-<!--
-**pablobausan98/pablobausan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apasionado por **Data Analytics, Data Science y Business Analytics**.  
+💻 Experiencia con **Python, SQL, Tableau y Power BI**.  
+📊 Me interesa convertir datos en información útil para la toma de decisiones.  
 
-Here are some ideas to get you started:
+## 🚀 Mis intereses
+- 📈 Análisis de datos y machine learning  
+- 💡 Data science y big data  
+- 🌍 Crecer profesionalmente en entornos dinámicos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+- **Lenguajes**: Python, SQL  
+- **Herramientas**: Power BI, Tableau, Jupyter Notebook  
+- **Otros**: Excel avanzado, GitHub  
+
+## 📫 Cómo contactarme
+- [LinkedIn](https://www.linkedin.com/in/pablo-bautista-s%C3%A1nchez/)  
+- Email: pablobausan98@gmail.com
